@@ -2,8 +2,8 @@
 //  main.swift
 //  calculator
 //
-//  Created by iGuest on 10/8/15.
-//  Copyright © 2015 iGuest. All rights reserved.
+//  Created by Morgan Evans on 10/8/15.
+//  Copyright © 2015 Morgan Evans. All rights reserved.
 //
 
 import Foundation
